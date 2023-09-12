@@ -1,2 +1,2 @@
 # Lesson1
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.pxfuel.com/en/desktop-wallpaper-ejfwq)https://www.pxfuel.com/en/desktop-wallpaper-ejfwq)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([[https://myoctocat.com/assets/images/base-octocat.svg](https://www.pxfuel.com/en/desktop-wallpaper-ejfwq)https://www.pxfuel.com/en/desktop-wallpaper-ejfwq](https://store.playstation.com/en-us/concept/10001302)https://store.playstation.com/en-us/concept/10001302)
