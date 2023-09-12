@@ -1,2 +1,2 @@
 # Lesson1
-(![image](https://github.com/HawokX/Lesson1/assets/144772141/e4b32d3b-1575-41cb-9639-625344c78a2f)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.pxfuel.com/en/desktop-wallpaper-ejfwq)https://www.pxfuel.com/en/desktop-wallpaper-ejfwq)
